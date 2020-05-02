@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<< << << < HEAD
 import os
 
 
@@ -43,7 +43,7 @@ if __name__ == '__main__':
     move("Images", images)
     move("Documents", documents)
     move("Others", others)
-=======
+== == == =
 import os
 
 
@@ -88,4 +88,4 @@ if __name__ == '__main__':
     move("Images", images)
     move("Documents", documents)
     move("Others", others)
->>>>>>> 807a758950663c6b6e26c2cac7b24482510f36cc
+>>>>>> > 807a758950663c6b6e26c2cac7b24482510f36cc
